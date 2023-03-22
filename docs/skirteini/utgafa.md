@@ -70,7 +70,7 @@ Eftir því skip verða stærri í metrum og tonnum þá gilda meiri kröfur um 
 Kerfið stillir upp á myndrænan hátt skoðunarhringnum, þ.e. hvenær skoðanir skips skulu fara fram næstu 5 árin, en skoðanirnar skulu fara fram ár hvert miðað við afmælis dagsetningu.  Afmælisdagsetningin skilgreinir því skoðunarhringinn (skoðunarfyrirkomulagið):
 
 <figure>
-  <img src='images/hringur.png'>
+  <img src='/skirteini/images/hringur.png'>
   <figcaption>5 ára skoðunarhringur farþegaskips</figcaption>
 </figure>
 
