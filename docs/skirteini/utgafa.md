@@ -32,7 +32,7 @@ The count is: {{ count }}
 
 Útgáfa skírteinis er alltaf staðfesting á að eftirlit hafi leitt í ljós að tilteknar kröfur í reglum séu uppfylltar. Þannig eru öll mælibréf gefin út eftir að skipið hefur verið mælt og útreikningar á tonna tölum hafa verið yfirfarnar og samþykktar (lengdir, breiddir, dýptir, brúttó- og nettótonn).
 
-Sum skírteini skipa hafa aðeins **útgáfudagsetningu**, en engan gildistíma. Það á t.d. við með skírteini eins og
+Sum skírteini skipa hafa aðeins **útgáfudagsetningu**, en engan gildistíma. Það á t.d. við með skírteini eins og;
 - mælibréf og skrásetningarskírteini, 
 - íslenskt mælibréf
 - alþjóðamælibréf
@@ -47,19 +47,28 @@ Eðli þessara skírteina er þannig, að þau eru gefin út þegar ákveðin ei
   <figcaption>Nauðsynleg skírteini skips</figcaption>
 </figure> -->
 
-Ýmis önnur skírteini skipa hafa hins vegar bæði útgáfu dagsetningu og gildistíma.  Í daglegu tali er stundum talað um “períódísk skírteini” því þau eru endurnýjuð reglubundið þegar staðfest hefur verið í skipaskoðun, að skipið uppfyllir tilteknar kröfur varðandi t.d. smíði, björgunar- og öryggisbúnað, fjarskiptabúnað, siglingatæki, mengunarvarnarbúnað osfrv.  Dæmi um slík skírteini eru: **haffærisskírteini** og **öryggisskírteini**.
+Ýmis önnur skírteini skipa hafa hins vegar bæði útgáfu dagsetningu og gildistíma.  Í daglegu tali er stundum talað um “períódísk skírteini” því þau eru endurnýjuð reglubundið þegar staðfest hefur verið í skipaskoðun, að skipið uppfyllir tilteknar kröfur varðandi t.d. smíði, björgunar- og öryggisbúnað, fjarskiptabúnað, siglingatæki, mengunarvarnarbúnað osfrv. 
 
-Tvö algengustu skírteinin, sem skip fá útgefin eru haffærisskírteini og öryggisskírteini.  Algengustu skoðanir sem skip undirgangast eru síðan: búnaðarskoðun, vél- og rafmagnsskoðun, bolskoðun (skoðun ofan sjólínu, með skipið á floti), botnskoðun (skoðun neðan sjólínu), öxul- og stýrisskoðun, kranaskoðun.  Þessar skoðanir tengjast alltaf annað hvort haffærisskírteini eða öryggisskírteini skipsins.
+Tvö algengustu skírteinin sem skip fá útgefin eru **haffærisskírteini** og **öryggisskírteini**.
 
-> **Haffærisskírteini** er gefið út fyrir öll skip óháð stærð og tegund
+Algengustu skoðanir sem skip undirgangast eru
+- búnaðarskoðun
+- vél- og rafmagnsskoðun
+- bolskoðun (skoðun ofan sjólínu, með skipið á floti)
+- botnskoðun (skoðun neðan sjólínu)
+- öxul- og stýrisskoðun
+- kranaskoðun.  
+Þessar skoðanir tengjast alltaf annað hvort haffærisskírteini eða öryggisskírteini skipsins.
 
-> **Öryggisskírteini** er hins vegar gefið út fyrir öll farþegaskip óháð stærð og öll önnur skip yfir 15 m að mestu lengd, sem notuð eru í atvinnuskyni  
+> **Haffærisskírteini** er gefið út fyrir öll skip óháð stærð og tegund.
+
+> **Öryggisskírteini** er hins vegar gefið út fyrir öll farþegaskip óháð stærð og öll önnur skip yfir 15 m að mestu lengd, sem notuð eru í atvinnuskyni.
 
 Þegar búið er að velja skip til að skoða í kerfinu þá sjást þau skírteini, sem eiga við skipið í  skjámyndunum Útgáfa skips skírteina og Yfirlit yfir útgefin skírteini. Nánar er fjallað um þetta í þessum kafla.
 
 
 
-## Gildistími skips skírteina
+## Gildistími skírteina
 
 Gildistími skips skírteinis tekur mið af:
 
