@@ -6,7 +6,7 @@ export default ({
   description: "Skútan - hjálpin",
   themeConfig: {
     outlineTitle: 'Í þessum kafla',
-    logo: 'sam-logo.svg',
+    logo: '/sam-logo.svg',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Forsíða', link: '/' },

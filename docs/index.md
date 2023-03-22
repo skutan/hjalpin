@@ -7,7 +7,7 @@ hero:
   text: "Leiðbeiningar"
   tagline: 
   image:
-    src: /skirteini/images/sam-logo.svg
+    src: https://www.samgongustofa.is/skin/basic10k/i/sitelogo.svg
     alt: Skútan
   actions:
     - theme: alt
