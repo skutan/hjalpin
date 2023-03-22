@@ -6,9 +6,9 @@ hero:
   name: "Notkunarhandbók"
   text: ""
   tagline: 
-  image:
-    src: /s-logo.svg
-    alt: VitePress
+  # image:
+  #   src: /s-logo.svg
+  #   alt: VitePress
   actions:
     - theme: alt
       text: Skipaskrá

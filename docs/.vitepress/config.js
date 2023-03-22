@@ -1,17 +1,10 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default ({
-  lang: 'is',
   base: '/hjalpin/',
   title: 'Hjálpin',
   description: "Skútan - hjálpin",
-  lastUpdated: true,
   themeConfig: {
-    // footer: {
-    //   message: 'Samgöngustofa',
-    //   copyright: ' © 2023'
-    // },
     outlineTitle: 'Efnisyfirlit',
     // logo: 'sam-logo.svg',
     // https://vitepress.dev/reference/default-theme-config
@@ -29,20 +22,6 @@ export default ({
       { text: 'Vefþjónustur', link: '/markdown-examples' },
       
     ],
-
-    guideSidebar: [
-      {
-        text: 'Guide',
-        items: [
-          { text: 'Introduction', link: '/guide/introduction' },
-          { text: 'Getting Started', link: '/guide/getting-started' },
-          { text: 'Configuration', link: '/guide/configuration' }
-        ]
-      }
-    ],
-    
-  
-
     sidebar: [
       {
         text: 'Almennt',
