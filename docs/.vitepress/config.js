@@ -5,8 +5,8 @@ export default ({
   title: 'Hjálpin',
   description: "Skútan - hjálpin",
   themeConfig: {
-    outlineTitle: 'Efnisyfirlit',
-    // logo: 'sam-logo.svg',
+    outlineTitle: 'Í þessum kafla',
+    logo: 'sam-logo.svg',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Forsíða', link: '/' },
@@ -23,28 +23,28 @@ export default ({
       
     ],
     sidebar: [
-      {
-        text: 'Almennt',
-        collapsed: false,
-        items: [
-          { text: 'Innskráning', link: '/almennt/almennt'},
-          { text: 'Forsíða', link: '/skirteini/utgafa' },
-          { text: 'Leit að skipi', link: '/skirteini/yfirlit' },
-          { text: 'Leit og síur', link: '/skirteini/undantagur' },
-          { text: 'Skýrslur', link: '/skirteini/fartegaleyfi' }
-        ]
-      },
-      {
-        text: 'Skráning skipa',
-        collapsed: true,
-        items: [
-          { text: 'Skráning', link: '/almennt/innskraning'},
-          { text: 'Kennimerki', link: '/skirteini/utgafa' },
-          { text: 'Eigendur og útgerðir', link: '/skirteini/yfirlit' },
-          { text: 'Tryggingar', link: '/skirteini/undantagur' },
-          { text: 'Systurskip', link: '/skirteini/fartegaleyfi' }
-        ]
-      },
+      // {
+      //   text: 'Almennt',
+      //   collapsed: false,
+      //   items: [
+      //     { text: 'Innskráning', link: '/almennt/almennt'},
+      //     { text: 'Forsíða', link: '/skirteini/utgafa' },
+      //     { text: 'Leit að skipi', link: '/skirteini/yfirlit' },
+      //     { text: 'Leit og síur', link: '/skirteini/undantagur' },
+      //     { text: 'Skýrslur', link: '/skirteini/fartegaleyfi' }
+      //   ]
+      // },
+      // {
+      //   text: 'Skráning skipa',
+      //   collapsed: true,
+      //   items: [
+      //     { text: 'Skráning', link: '/almennt/innskraning'},
+      //     { text: 'Kennimerki', link: '/skirteini/utgafa' },
+      //     { text: 'Eigendur og útgerðir', link: '/skirteini/yfirlit' },
+      //     { text: 'Tryggingar', link: '/skirteini/undantagur' },
+      //     { text: 'Systurskip', link: '/skirteini/fartegaleyfi' }
+      //   ]
+      // },
       {
         text: 'Skips skírteini',
         collapsed: false,
@@ -58,7 +58,7 @@ export default ({
       },
       {
         text: 'Skoðanir skipa',
-        collapsed: true,
+        collapsed: false,
         items: [
           { text: 'Skoðunarhringur á skipum', link: '/skodanir/skodunarhringur' },
           { text: 'Tækni- og aukaskoðun', link: '/skirteini/taekniskodun' },

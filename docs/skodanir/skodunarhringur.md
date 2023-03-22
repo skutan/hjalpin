@@ -1,7 +1,7 @@
 # Skoðunarhringur á skipum
 
-::: info 
-Í þessum kafla verður fjallað um breytingu í utanumhaldi á skoðunum skipa með tilkomu nýju skipaskrárinnar. Hin raunverulega breyting felst í því, að ekki verður hægt lengur að hliðra skoðunum til í gegnum framlengingar eða endurskoðanir. Þannig skulu þá fara fram tiltekinn fjöldi skoðana yfir 5 ára tímabil.  Skoðanirnar verða mis yfirgripsmiklar eftir því hvar skipið er statt í skoðunarhringnum.  Stærsta skoðunin er í upphafi skoðunarhrings og er þá talað um **endurnýjunarskoðun (R)**.  Næst stærst er milliskoðunin (I) en hún fer fram á ári 2 eða 3.  Árlega skoðunin (A) fer fram á ári 2 og 4.  Þetta er í samræmi við reglugerð nr. 1017/2003 um skoðanir skipa.
+::: info Í þessum kafla
+ verður fjallað um breytingu í utanumhaldi á skoðunum skipa með tilkomu nýju skipaskrárinnar. Hin raunverulega breyting felst í því, að ekki verður hægt lengur að hliðra skoðunum til í gegnum framlengingar eða endurskoðanir. Þannig skulu þá fara fram tiltekinn fjöldi skoðana yfir 5 ára tímabil.  Skoðanirnar verða mis yfirgripsmiklar eftir því hvar skipið er statt í skoðunarhringnum.  Stærsta skoðunin er í upphafi skoðunarhrings og er þá talað um **endurnýjunarskoðun (R)**.  Næst stærst er milliskoðunin (I) en hún fer fram á ári 2 eða 3.  Árlega skoðunin (A) fer fram á ári 2 og 4.  Þetta er í samræmi við reglugerð nr. 1017/2003 um skoðanir skipa.
 
 :::
 

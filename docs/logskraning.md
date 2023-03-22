@@ -1,5 +1,5 @@
 ---
-aside: false
+aside: true
 prev:
   text: 'Markdown'
   link: '/guide/markdown'

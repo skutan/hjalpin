@@ -3,12 +3,12 @@
 layout: home
 
 hero:
-  name: "Notkunarhandbók"
-  text: ""
+  name: "Skútan"
+  text: "Leiðbeiningar"
   tagline: 
-  # image:
-  #   src: /s-logo.svg
-  #   alt: VitePress
+  image:
+    src: /sam-logo.svg
+    alt: Skútan
   actions:
     - theme: alt
       text: Skipaskrá
@@ -19,14 +19,14 @@ hero:
     - theme: alt
       text: Lögskráningar
       link: /logskraning
-    - theme: brand
+    - theme: alt
       text: Spurt og svarað
       link: /faq
 
 
 features:
-  # - title: Skútan
-  #   details:  er nýtt upplýsinga- og skráningarkerfi Samgöngustofu sem sameinar tvö eldri kerfi, skipaskrá og lögskráningar sjómanna.
+  - title: Skútan
+    details:  er nýtt upplýsinga- og skráningarkerfi Samgöngustofu sem sameinar tvö eldri kerfi, skipaskrá og lögskráningar sjómanna.
 
   - title: Skipaskrá
     details: Skútan viðheldur er skráningarkerfi fyrir skips skoðanir og útgáfu skipsskírteina
