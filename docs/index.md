@@ -7,15 +7,15 @@ hero:
   text: "Leiðbeiningar"
   tagline: 
   image:
-    src: sam-logo.svg
+    src: /skirteini/images/sam-logo.svg
     alt: Skútan
   actions:
     - theme: alt
       text: Skipaskrá
       link: /skirteini
-    # - theme: alt
-    #   text: Skoðanir skipa
-    #   link: /skodanir
+    - theme: alt
+      text: Skoðanir skipa
+      link: /skodanir
     - theme: alt
       text: Lögskráningar
       link: /logskraning
@@ -29,7 +29,7 @@ features:
     details:  er nýtt upplýsinga- og skráningarkerfi Samgöngustofu sem sameinar tvö eldri kerfi, skipaskrá og lögskráningar sjómanna.
 
   - title: Skipaskrá
-    details: Skútan viðheldur er skráningarkerfi fyrir skips skoðanir og útgáfu skipsskírteina
+    details: Skútan er skráningarkerfi fyrir skoðanir skipa og útgáfu skips skírteina
 
   - title: Lögskráningar sjómanna
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
