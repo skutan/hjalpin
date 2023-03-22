@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default ({
   lang: 'is',
-  base: 'skutan',
+  base: '/hjalpin/',
   title: 'Hjálpin',
   description: "Skútan - hjálpin",
   lastUpdated: true,
