@@ -30,9 +30,15 @@ The count is: {{ count }}
 }
 </style> -->
 
-Eins og áður sagði er skips skírteini alltaf staðfesting á að eftirlit hafi leitt í ljós að tilteknar kröfur í reglum séu uppfylltar.  Þannig eru öll mælibréf gefin út eftir að skipið hefur verið mælt og útreikningar á tonna tölum hafa verið yfirfarnir og samþykktir (lengdir, breiddir, dýptir, brúttó- og nettótonn).  
+Útgáfa skírteinis er alltaf staðfesting á að eftirlit hafi leitt í ljós að tilteknar kröfur í reglum séu uppfylltar. Þannig eru öll mælibréf gefin út eftir að skipið hefur verið mælt og útreikningar á tonna tölum hafa verið yfirfarnar og samþykktar (lengdir, breiddir, dýptir, brúttó- og nettótonn).
 
-Sum skírteini skipa hafa aðeins útgáfu dagsetningu, en engan gildistíma.  Það á  t.d. við með skírteini eins og:  mælibréf og skrásetningarskírteini, íslenskt mælibréf, alþjóðamælibréf, þjóðernisskírteini. Eðli þessara skírteina er þannig, að þau eru gefin út þegar ákveðin eigindi skipsins hafa verið staðfest (t.d. lengd eða tonna tala), en það eru ekki framkvæmdar eða skilgreindar reglubundnar skoðanir í lögum/reglum hvað skírteinið varðar.
+Sum skírteini skipa hafa aðeins **útgáfudagsetningu**, en engan gildistíma. Það á t.d. við með skírteini eins og
+- mælibréf og skrásetningarskírteini, 
+- íslenskt mælibréf
+- alþjóðamælibréf
+- þjóðernisskírteini 
+
+Eðli þessara skírteina er þannig, að þau eru gefin út þegar ákveðin eigindi skipsins hafa verið staðfest (t.d. lengd eða tonnatala), en það eru ekki framkvæmdar eða skilgreindar reglubundnar skoðanir í lögum/reglum hvað varðar ofantöldu skírteinin.
 
 <!-- ![](images/yfirlit-1416.png) -->
 

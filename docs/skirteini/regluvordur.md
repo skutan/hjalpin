@@ -1,3 +1,13 @@
+---
+aside: false
+prev:
+  text: 'Tilbaka'
+  link: '/skirteini.md'
+next:
+  text: 'Regluvörðurinn'
+  link: '/skirteini/regluvordur.md'
+---
+
 # Regluvörðurinn
 
 

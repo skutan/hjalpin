@@ -25,24 +25,24 @@ export default ({
     sidebar: [
       {
         text: 'Almennt',
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: 'Innskráning', link: '/almennt/almennt'},
-          { text: 'Forsíða', link: '/skirteini/utgafa' },
-          { text: 'Leit að skipi', link: '/skirteini/yfirlit' },
-          { text: 'Leit og síur', link: '/skirteini/undantagur' },
-          { text: 'Skýrslur', link: '/skirteini/fartegaleyfi' }
+          { text: 'Forsíða', link: '' },
+          { text: 'Leit að skipi', link: '' },
+          { text: 'Leit og síur', link: '' },
+          { text: 'Skýrslur', link: '' }
         ]
       },
       {
         text: 'Skráning skipa',
         collapsed: true,
         items: [
-          { text: 'Skráning', link: '/almennt/innskraning'},
-          { text: 'Kennimerki', link: '/skirteini/utgafa' },
-          { text: 'Eigendur og útgerðir', link: '/skirteini/yfirlit' },
-          { text: 'Tryggingar', link: '/skirteini/undantagur' },
-          { text: 'Systurskip', link: '/skirteini/fartegaleyfi' }
+          { text: 'Skráning', link: '/skraning/skraning'},
+          { text: 'Kennimerki', link: '/skraning/skraning#kennimerki' },
+          { text: 'Eigendur og útgerðir', link: '/skraning/skraning#eigendur' },
+          { text: 'Tryggingar', link: '/skraning/skraning#tryggingar' },
+          { text: 'Stöðuskipti', link: '/skraning/skraning#stoduskipti' }
         ]
       },
       {

@@ -1,5 +1,6 @@
 ---
 layout: doc
+aside: false
 prev:
   text: 'Tilbaka'
   link: '/index.md'
@@ -30,11 +31,9 @@ hero:
 
 ## Lögskráningar 
 
-> Ég fæ villuboð þegar reynt er að skrá sig inn með ísland.is
-
-::: details Ég fæ villuboð þegar reynt er að skrá sig inn með ísland.is
+::: details Ég fæ villuboð þegar ég skrái mig inn með ísland.is
 Sannreyndu að þú sért að nota rétt `auðkenni`. 
-Ef ekki tekst að skrá sig með rafrænum skilríkjum sendið þá fyrirspurn með því að  [smella hér](https://www.samgongustofa.is/samband/).
+Ef ekki tekst að skrá sig með rafrænum skilríkjum sendið þá [fyrirspurn hér](https://www.samgongustofa.is/samband/).
 :::
 
 

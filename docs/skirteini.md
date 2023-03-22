@@ -1,6 +1,11 @@
 ---
-title: Skírteini
-description: Skírteini og tilheyrandi
+aside: false
+prev:
+  text: 'Forsíða'
+  link: '/index.md'
+next:
+  text: 'Útgáfa skírteina'
+  link: '/skirteini/utgafa.md'
 ---
 
 # Skírteini skipa
