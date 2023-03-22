@@ -7,7 +7,7 @@ hero:
   text: "Leiðbeiningar"
   tagline: 
   image:
-    src: /sam-logo.svg
+    src: sam-logo.svg
     alt: Skútan
   actions:
     - theme: alt

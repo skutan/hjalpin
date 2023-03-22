@@ -199,6 +199,12 @@ h1 {
     max-height: 120px !important;
     }
 }
+@media (min-width: 540px) {
+  .image-src {
+    max-width: 80px !important;
+    max-height: 80px !important;
+    }
+}
 
 
 .menu-text {
@@ -235,6 +241,7 @@ h1 {
 
 h1:after {
   margin-top: 20px;
+  margin-bottom: 20px;
   display: block;
   content: '';
   border: 2px solid var(--s-gray);
@@ -243,4 +250,10 @@ h1:after {
 img {
   margin: 2rem 0;
 }
-
+.desc {
+  color: white !important;
+}
+/* .desc:after {
+  content: '>>';
+  color: black !important;
+} */

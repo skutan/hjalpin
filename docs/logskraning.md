@@ -13,6 +13,12 @@ prev:
 Í þessum kafla verður farið yfir fyrirkomulagi við lögskráningar einstaklinga fyrir lögskráningaraðila.
 :::
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/rpryUT-Ijlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"
+        mozallowfullscreen="mozallowfullscreen" 
+        msallowfullscreen="msallowfullscreen" 
+        oallowfullscreen="oallowfullscreen" 
+        webkitallowfullscreen="webkitallowfullscreen"></iframe>
+
 ## Innskráning
 
 Ytri lögskráningaraðilar skrá sig inn með íslykli með því að smella á hnappinn `island.is` í innskráningarglugganum og símanúmer og rafræn auðkenni skráð. 
