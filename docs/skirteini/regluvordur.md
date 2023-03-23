@@ -32,7 +32,7 @@ Með Regluverðinum er hægt að sjá hvaða lög, reglur, skírteini og skoðan
 
 ## Regluvörðurinn í verki
 
- `SKÍRTEINI OG LEYFI`  &rarr;   `REGLUVÖRÐUR`
+ `SKÍRTEINI OG LEYFI` &rarr; `REGLUVÖRÐUR`
 
  [Regluvörðurinn](https://skutantest.samgongustofa.is/complianceOfficer/3002)  
 

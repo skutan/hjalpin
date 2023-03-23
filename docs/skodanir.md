@@ -16,6 +16,8 @@ description: Skoðanir og skoðunarhringurinn
 
 [Skoðun skipa](skodanir.md#_3-4-heildarlisti-skoðana)
 
+[Fjarskiptaskoðun](skodanir.md#_3-3-skra-skoðun)
+
 <!--
 ::: tip Skoðunarhringur skipa
  Nokkur dæmi um skráningu skoðanna af mismunandi gerðum og stærðum af bátum er einnig að finna hér.

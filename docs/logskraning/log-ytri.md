@@ -55,7 +55,7 @@ Ef ein af eftirfarandi ábendingum birtast er **EKKI** hægt að lögskrá á sk
   <figcaption>Skráningarform til að lögskrá einstakling </figcaption>
 </figure> -->
 
-::: tip Ábending
+::: info Ábending
 Bendum á að bæði er hægt að skrá kennitölu eða nafn einstaklings, og ekki þarf að skrá fullt nafn - kerfið flettir upp þegar hluti af kennitölu eða nafn einstaklings hefur verið skrá í reitinn.
 :::
 

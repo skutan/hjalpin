@@ -52,12 +52,13 @@ Eðli þessara skírteina er þannig, að þau eru gefin út þegar ákveðin ei
 Tvö algengustu skírteinin sem skip fá útgefin eru **haffærisskírteini** og **öryggisskírteini**.
 
 Algengustu skoðanir sem skip undirgangast eru
-- búnaðarskoðun
-- vél- og rafmagnsskoðun
-- bolskoðun (skoðun ofan sjólínu, með skipið á floti)
-- botnskoðun (skoðun neðan sjólínu)
-- öxul- og stýrisskoðun
-- kranaskoðun.  
+- Búnaðarskoðun
+- Vél- og rafmagnsskoðun
+- Bolskoðun (skoðun ofan sjólínu, með skipið á floti)
+- Botnskoðun (skoðun neðan sjólínu)
+- Öxul- og stýrisskoðun
+- Kranaskoðun
+
 Þessar skoðanir tengjast alltaf annað hvort haffærisskírteini eða öryggisskírteini skipsins.
 
 > **Haffærisskírteini** er gefið út fyrir öll skip óháð stærð og tegund.
@@ -73,16 +74,16 @@ Algengustu skoðanir sem skip undirgangast eru
 Gildistími skips skírteinis tekur mið af:
 
 
-1. #### Gerð skírteinis
+- #### Gerð skírteinis
 > og skoðunar fyrirkomulagi (skoðunarhring og skoðunarglugga) skipsins gagnvart því skírteini
 > - **Farþegaskip**, 5 ára skoðunarhringur, skoðunargluggi er alltaf - 3 mánuðir mv. afmælis dagsetningu, 12 mánaða öryggisskírteini
 > - Allar aðrar tegundir skipa, 5 ára skoðunarhringur, skoðunargluggi er venjulegast + 3 mánuðir mv. afmælis dagsetningu (nema í lok skoðunarhrings, þá er bara - 3 mánuðir), 60 mánaða öryggisskírteini
 
-2. ####  Niðurstöðu skoðana (dæming 0, 1, 2 eða 3)
+- ####  Niðurstöðu skoðana (dæming 0, 1, 2 eða 3)
 
 Eftir því skip verða stærri í metrum og tonnum þá gilda meiri kröfur um þau og þá þurfa skip að undirgangast fleiri skoðanir tengt þessum kröfum og fá útgefið viðeigandi skips skírteini því til staðfestingar. Afmælis dagsetningu, skoðunarhring og skoðunarglugga er nánar lýst `í þessum og í 4. kafla.` **TODO - hlekkur**
 
-Kerfið stillir upp á myndrænan hátt skoðunarhringnum, þ.e. hvenær skoðanir skips skulu fara fram næstu 5 árin, en skoðanirnar skulu fara fram ár hvert miðað við afmælis dagsetningu.  Afmælisdagsetningin skilgreinir því skoðunarhringinn (skoðunarfyrirkomulagið):
+Kerfið stillir upp á myndrænan hátt skoðunarhringnum, þ.e. hvenær skoðanir skips skulu fara fram næstu **5 árin**, en skoðanirnar skulu fara fram ár hvert miðað við afmælis dagsetningu. Afmælisdagsetningin skilgreinir því skoðunarhringinn (skoðunarfyrirkomulagið):
 
 <figure>
   <img src='/skirteini/images/hringur.png'>

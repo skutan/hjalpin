@@ -6,7 +6,7 @@ export default ({
   description: "Skútan - hjálpin",
   themeConfig: {
     outlineTitle: 'Í þessum kafla',
-    logo: '/sam-logo.svg',
+    logo: 'https://images.ctfassets.net/8k0h54kbe6bj/3EumKpWqbPFygVWxWteoW/2961b0d9c162e8528e5771ab1707a368/Samgongustofa-stakt-400-400.png',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Forsíða', link: '/' },
@@ -14,12 +14,12 @@ export default ({
       { text: 'Lögskráningar', 
       items: [
         { text: 'Almennt', link: '/logskraning' },
-        { text: 'Mönnunarreglur', link: '/item-2' },
-        { text: 'Farþegaskip', link: '/item-3' }
+        { text: 'Mönnunarreglur', link: '/logskraning/log-ytri' },
+        { text: 'Farþegaskip', link: '/logskraning' }
       ]
        }
       ,
-      { text: 'Vefþjónustur', link: '/markdown-examples' },
+      // { text: 'Vefþjónustur', link: '/markdown-examples' },
       
     ],
     sidebar: [
@@ -61,11 +61,11 @@ export default ({
         collapsed: false,
         items: [
           { text: 'Skoðunarhringur á skipum', link: '/skodanir/skodunarhringur' },
-          { text: 'Tækni- og aukaskoðun', link: '/skirteini/taekniskodun' },
-          { text: 'Heildarlisti skoðana', link: '/skirteini/heildarlisti' },
-          { text: 'Skrá skoðun', link: '/skirteini/skra-skodun' },
-          { text: 'Eldri skoðanir', link: '/skirteini/eldri-skodanir' },
-          { text: 'Frestir til lagfæringar', link: '/skirteini/frestir' }
+          { text: 'Tækni- og aukaskoðun', link: '/skodanir/taekniskodun' },
+          { text: 'Heildarlisti skoðana', link: '/skodanir/heildarlisti' },
+          { text: 'Skrá skoðun', link: '/skodanir/skra-skodun' },
+          { text: 'Eldri skoðanir', link: '/skodanir/eldri-skodanir' },
+          { text: 'Frestir til lagfæringar', link: '/skodanir/frestir' }
         ]
       },
       // {
@@ -78,8 +78,8 @@ export default ({
       // }
     ],
 
-    socialLinks: [
-      { icon: 'github', link: 'https://www.samgongustofa.is' }
-    ]
+    // socialLinks: [
+    //   { icon: '', link: 'https://www.samgongustofa.is' }
+    // ]
   }
 })

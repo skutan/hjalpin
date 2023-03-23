@@ -1,10 +1,10 @@
 ---
-layout: doc
 aside: false
 prev:
   text: 'Tilbaka'
   link: '/index.md'
 ---
+
 
 <!-- ---
 layout: home
