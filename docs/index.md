@@ -11,7 +11,7 @@ hero:
     alt: Skútan
   actions:
     - theme: alt
-      text: Skips skírteini
+      text: Skírteini skipa
       link: /skirteini
     - theme: alt
       text: Skoðanir skipa
