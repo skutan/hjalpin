@@ -163,29 +163,46 @@ figcaption {
 }
 
 .custom-block.details {
-  border-color: var(--s-gray);
-
-  /* box-shadow: 0px 20px 30px rgba(0,0,0,0.05) !important; */
+  margin-top: 2rem;
+  /* border-color: var(--s-blue); */
+  font-size: 1rem;
+  /* padding: 1.5rem 0; */
+  /* border: 2px solid rgba(100, 108, 255, 0.2); */
+  transition: all 0.2s ease-in;
+}
+.custom-block.details p {
+  line-height: 2rem;
+  padding: 1rem;
 }
 
-.custom-block.details a {
-  color: var(--s-blue);
-  /* box-shadow: 0px 20px 30px rgba(0,0,0,0.05) !important; */
+.custom-block.details:hover {
+  box-shadow: 0px 20px 30px rgba(0,0,0,0.05) !important;
+  border-color: var(--s-blue);
 }
+
+
+.custom-block.details summary {
+  color: var(--s-dark) !important;
+  margin: 0 0 8px;
+  font-weight: 500;
+  cursor: pointer;
+
+  }
 
 .custom-block.info {
   background-color: var(--s-gray) !important; 
   padding: 1.5rem !important;
-  border-left: 8px solid var(--s-blue);
+  border-left: 8px solid var(--sam-green);
   border-top: 0px;
   border-right: 0px solid #3499fe;
   border-bottom: 0px solid #3499fe;
-  /* border: 0px; */
-  /* border-color: white; */
-  font-size: 0.9rem;
   line-height: 20px !important;
-  background-color: var(--bg-gray);
   /* box-shadow: 0px 10px 1px rgba(0,0,0,0.05) !important; */
+}
+.custom-block.info p {
+  font-size: 0.9rem;
+  line-height: 1.8rem;
+  /* padding: 1rem; */
 }
 
 a {

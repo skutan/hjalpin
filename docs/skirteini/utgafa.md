@@ -73,13 +73,17 @@ Algengustu skoðanir sem skip undirgangast eru
 
 Gildistími skips skírteinis tekur mið af:
 
-
-- #### Gerð skírteinis
+::: info Gerð skírteinis
 > og skoðunar fyrirkomulagi (skoðunarhring og skoðunarglugga) skipsins gagnvart því skírteini
-> - **Farþegaskip**, 5 ára skoðunarhringur, skoðunargluggi er alltaf - 3 mánuðir mv. afmælis dagsetningu, 12 mánaða öryggisskírteini
-> - Allar aðrar tegundir skipa, 5 ára skoðunarhringur, skoðunargluggi er venjulegast + 3 mánuðir mv. afmælis dagsetningu (nema í lok skoðunarhrings, þá er bara - 3 mánuðir), 60 mánaða öryggisskírteini
+> - **Farþegaskip**
+> -- 5 ára skoðunarhringur, skoðunargluggi er alltaf - 3 mánuðir mv. afmælis dagsetningu, 12 mánaða öryggisskírteini
+> - **Allar aðrar tegundir skipa**, 5 ára skoðunarhringur, skoðunargluggi er venjulegast + 3 mánuðir mv. afmælis dagsetningu (nema í lok skoðunarhrings, þá er bara - 3 mánuðir), 60 mánaða öryggisskírteini
 
-- ####  Niðurstöðu skoðana (dæming 0, 1, 2 eða 3)
+####  Niðurstöðu skoðana 
+> Dæming 0, 1, 2 eða 3
+:::
+
+
 
 Eftir því skip verða stærri í metrum og tonnum þá gilda meiri kröfur um þau og þá þurfa skip að undirgangast fleiri skoðanir tengt þessum kröfum og fá útgefið viðeigandi skips skírteini því til staðfestingar. Afmælis dagsetningu, skoðunarhring og skoðunarglugga er nánar lýst `í þessum og í 4. kafla.` **TODO - hlekkur**
 
