@@ -15,7 +15,7 @@ hero:
       link: /skirteini
     - theme: alt
       text: Skoðanir skipa
-      link: /skodanir/skodanir
+      link: /skodanir/heildarlisti
     - theme: alt
       text: Lögskráningar
       link: /logskraning
