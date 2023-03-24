@@ -30,13 +30,14 @@ The count is: {{ count }}
 }
 </style> -->
 
-Útgáfa skírteinis er alltaf staðfesting á að eftirlit hafi leitt í ljós að tilteknar kröfur í reglum séu uppfylltar. Þannig eru öll mælibréf gefin út eftir að skipið hefur verið mælt og útreikningar á tonna tölum hafa verið yfirfarnar og samþykktar (lengdir, breiddir, dýptir, brúttó- og nettótonn).
+Útgáfa skírteinis er staðfesting á að eftirlit hafi leitt í ljós að tilteknar kröfur í reglum séu uppfylltar. Þannig eru öll **mælibréf** gefin út eftir að skipið hefur verið mælt og útreikningar á tonna tölum hafa verið yfirfarnar og samþykktar (lengdir, breiddir, dýptir, brúttó- og nettótonn).
 
-Sum skírteini skipa hafa aðeins **útgáfudagsetningu**, en engan gildistíma. Það á t.d. við með skírteini eins og;
-- mælibréf og skrásetningarskírteini, 
-- íslenskt mælibréf
-- alþjóðamælibréf
-- þjóðernisskírteini 
+::: tip Skírteini skipa sem hafa aðeins útgáfudagsetningu en ekki gildistíma
+- Mælibréf og skrásetningarskírteini, 
+- Íslenskt mælibréf
+- Alþjóðamælibréf
+- Þjóðernisskírteini 
+:::
 
 Eðli þessara skírteina er þannig, að þau eru gefin út þegar ákveðin eigindi skipsins hafa verið staðfest (t.d. lengd eða tonnatala), en það eru ekki framkvæmdar eða skilgreindar reglubundnar skoðanir í lögum/reglum hvað varðar ofantöldu skírteinin.
 
@@ -51,13 +52,47 @@ Eðli þessara skírteina er þannig, að þau eru gefin út þegar ákveðin ei
 
 Tvö algengustu skírteinin sem skip fá útgefin eru **haffærisskírteini** og **öryggisskírteini**.
 
-Algengustu skoðanir sem skip undirgangast eru
+## Tíðni skoðana skipa
+
+<!-- :::info 
 - Búnaðarskoðun
 - Vél- og rafmagnsskoðun
 - Bolskoðun (skoðun ofan sjólínu, með skipið á floti)
 - Botnskoðun (skoðun neðan sjólínu)
 - Öxul- og stýrisskoðun
 - Kranaskoðun
+::: -->
+
+::: code-group
+
+```Tíðni [Farþegaskip]
+Búnaðarskoðun              E | E | E | E | E
+Vél- og rafmagnsskoðun     E | Á | M | Á | M
+Botnskoðun                 E | - | - | - | - 
+Öxul- og stýrisskoðun      E | - | Á | - | - 
+Botnskoðun                 E | - | - | - | - 
+
+
+```
+
+```tíðni [Önnur skip en farþegaskip]
+Búnaðarskoðun              E | Á | M | Á | M
+Vél- og rafmagnsskoðun     E | Á | M | Á | M
+Botnskoðun                 E | - | Á | - | - 
+Öxul- og stýrisskoðun      E | - | Á | - | - 
+Botnskoðun                 E | - | - | - | - 
+Kranaskoðun                E | - | - | - | - 
+
+```
+
+:::
+
+::: tip Skýringar
+- E - Endurnýjunarskoðun
+- Á - Árleg skoðun
+- M - Milli skoðun
+:::
+
 
 Þessar skoðanir tengjast alltaf annað hvort haffærisskírteini eða öryggisskírteini skipsins.
 
@@ -73,10 +108,9 @@ Algengustu skoðanir sem skip undirgangast eru
 
 Gildistími skips skírteinis tekur mið af:
 
-::: info Gerð skírteinis
+::: tip Gerð skírteinis
 > og skoðunar fyrirkomulagi (skoðunarhring og skoðunarglugga) skipsins gagnvart því skírteini
-> - **Farþegaskip**
-> -- 5 ára skoðunarhringur, skoðunargluggi er alltaf - 3 mánuðir mv. afmælis dagsetningu, 12 mánaða öryggisskírteini
+> - **Farþegaskip**, 5 ára skoðunarhringur, skoðunargluggi er alltaf - 3 mánuðir mv. afmælis dagsetningu, 12 mánaða öryggisskírteini
 > - **Allar aðrar tegundir skipa**, 5 ára skoðunarhringur, skoðunargluggi er venjulegast + 3 mánuðir mv. afmælis dagsetningu (nema í lok skoðunarhrings, þá er bara - 3 mánuðir), 60 mánaða öryggisskírteini
 
 ####  Niðurstöðu skoðana 
