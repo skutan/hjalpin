@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a,N as r}from"./chunks/framework.613b408f.js";const h=JSON.parse('{"title":"Farþegaleyfi","description":"","frontmatter":{},"headers":[],"relativePath":"skirteini/fartegaleyfi.md"}'),i={name:"skirteini/fartegaleyfi.md"},l=r("",8),n=[l];function s(d,f,g,u,o,k){return e(),a("div",null,n)}const y=t(i,[["render",s]]);export{h as __pageData,y as default};

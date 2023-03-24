@@ -20,16 +20,24 @@ export default ({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Forsíða', link: '/' },
-      { text: 'Skip', link: '/skirteini' },
+      // { text: 'Skip', link: '/skirteini' },
+      { text: 'Skip', 
+        items: [
+          { text: 'Skráningar', link: '/skraning/skraning' },
+          { text: 'Skoðanir', link: '/skodanir' },
+          { text: 'Fjarskiptaskoðun', link: '/skodanir/fjarskipta' }
+        ] 
+      },
       { text: 'Lögskráningar', 
-      items: [
-        { text: 'Almennt', link: '/logskraning' },
-        { text: 'Mönnunarreglur', link: '/logskraning/log-ytri' },
-        { text: 'Farþegaskip', link: '/logskraning' }
-      ]
+        items: [
+          { text: 'Almennt', link: '/logskraning' },
+          { text: 'Mönnunarreglur', link: '/logskraning/log-ytri' },
+          { text: 'Farþegaskip', link: '/logskraning' }
+        ]
        }
       ,
       // { text: 'Vefþjónustur', link: '/markdown-examples' },
+      { text: 'Spurt & svarað', link: '/faq' },
       
     ],
     sidebar: [

@@ -153,8 +153,8 @@
 } */
 
 figcaption {
-  text-align: center;
-  margin: 10px 0;
+  text-align: left;
+  margin:  0;
   font-style: italic;
   font-size: 0.9rem !important;
 }
@@ -186,7 +186,7 @@ figcaption {
 
 
 .custom-block.details summary {
-  color: var(--s-blue) !important;
+  color: var(--sam-blue) !important;
   margin: 0 0 8px;
   font-weight: 700;
   cursor: pointer;
@@ -299,7 +299,10 @@ h1:after {
 }
 
 img {
-  margin: 2rem 0;
+  margin: 1rem 0;
+  /* border: 2px solid var(--s-gray); */
+  /* box-shadow: 0px 20px 30px rgba(0,0,0,0.05) !important; */
+
 }
 .desc {
   color: white !important;
@@ -320,4 +323,15 @@ img {
   max-width: 192px;
   min-height: 92px !important;
   transform: translate(-50%, -50%);
+}
+
+.top-link {
+  color: white !important;
+}
+.top-link:hover {
+  color: white !important;
+}
+.top-link::before {
+  content: 'Efst á síðu';
+  color: var(--s-dark) !important;
 }

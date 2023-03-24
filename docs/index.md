@@ -15,7 +15,7 @@ hero:
       link: /skirteini
     - theme: alt
       text: Skoðanir skipa
-      link: /skodanir
+      link: /skodanir/skodanir
     - theme: alt
       text: Lögskráningar
       link: /logskraning
@@ -25,6 +25,18 @@ hero:
 
 
 features:
+  # - icon:
+  #     dark: /dark-feature-icon.svg
+  #     light: /s-logo2.svg
+  #   title: Another cool feature
+  #   details: Lorem ipsum...
+
+  # - icon:
+  #     dark: /dark-feature-icon.svg
+  #     light: /s-logo.svg
+  #   title: Another cool feature
+  #   details: Lorem ipsum...
+  
   - title: Skútan
     details:  er nýtt upplýsinga- og skráningarkerfi Samgöngustofu sem sameinar tvö eldri kerfi, skipaskrá og lögskráningar sjómanna.
 
@@ -32,6 +44,6 @@ features:
     details: Skútan er skráningarkerfi fyrir skoðanir skipa og útgáfu skips skírteina
 
   - title: Lögskráningar sjómanna
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Skútan heldur utan um lögskráningar sjómanna ásamt útgáfu atvinnuskírteina
 ---
 

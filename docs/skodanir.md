@@ -16,7 +16,7 @@ description: Skoðanir og skoðunarhringurinn
 
 [Skoðun skipa](skodanir.md#_3-4-heildarlisti-skoðana)
 
-[Fjarskiptaskoðun](skodanir.md#_3-3-skra-skoðun)
+[Fjarskiptaskoðun](skodanir/fjarskipta.md)
 
 <!--
 ::: tip Skoðunarhringur skipa
