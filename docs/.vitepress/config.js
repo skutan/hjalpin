@@ -1,6 +1,16 @@
+// import { SearchPlugin } from "vitepress-plugin-search";
 import { defineConfig } from 'vitepress'
 
+//default options
+// var options = {
+//   ...flexSearchIndexOptions,
+//   previewLength: 62,
+//   buttonLabel: "Search",
+//   placeholder: "Search docs",
+// };
+
 export default ({
+  // plugins: [SearchPlugin(options)],
   base: '/hjalpin/',
   title: 'Hjálpin',
   description: "Skútan - hjálpin",

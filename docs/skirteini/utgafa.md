@@ -65,7 +65,7 @@ Tvö algengustu skírteinin sem skip fá útgefin eru **haffærisskírteini** og
 
 ::: code-group
 
-```Tíðni [Farþegaskip]
+```txt [Farþegaskip]
 Búnaðarskoðun              E | E | E | E | E
 Vél- og rafmagnsskoðun     E | Á | M | Á | M
 Botnskoðun                 E | - | - | - | - 
@@ -75,7 +75,7 @@ Botnskoðun                 E | - | - | - | -
 
 ```
 
-```tíðni [Önnur skip en farþegaskip]
+```txt [Önnur skip en farþegaskip]
 Búnaðarskoðun              E | Á | M | Á | M
 Vél- og rafmagnsskoðun     E | Á | M | Á | M
 Botnskoðun                 E | - | Á | - | - 

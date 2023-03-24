@@ -47,11 +47,28 @@ Með Regluverðinum er hægt að sjá hvaða lög, reglur, skírteini og skoðan
 
 Þær reglubundnu skoðanir sem tengjast viðkomandi skírteini birtast sem gulur hnappur.
 
-Þegar eftirfarandi upplýsingar um skip eru tiltækar í Skútunni er hægt að birta lista yfir hvaða lög og reglur gilda og þannig hvaða skírteini skipið þarfnast: 
+Þegar eftirfarandi upplýsingar um skip eru tiltækar í Skútunni er hægt að birta lista yfir hvaða lög og reglur gilda og þannig hvaða skírteini skipið ber að fá útgefin.
 
-- Tegund skips <Badge text="*" />
+::: info Eigindi sem Regluvörðuinn notar í útreikning
+- Tegund skips
 - Smíði / kjölur lagður (dagsetning og ár)
-- Stærð (BT, BRL, mesta lengd, skráningarlengd) <Badge text="*" />
+- Stærð (BT, BRL, mesta lengd, skráningarlengd)
 - Smíðaefni
+:::
 
 Einnig er að hægt að sjá hvernig Regluvörðurinn breytist með því breyta eigindum skips á vinstri hlið skjámyndar og smella á  `Birta` hnappinn neðst. Þannig sýnir Regluvörðurinn í Skútunni hvaða lög, reglur, skírteini og skoðanir eiga við eftir því hver eigindi skipsins eru.
+
+
+::: code-group
+
+```txt [Skemmtibátur]
+Haffærisskírteini   
+Íslenskt mælibréf
+```
+
+```txt [Fiskiskip]
+Haffærisskírteini   
+Íslenskt mælibréf
+Þjóðernisskírteini
+```
+:::
