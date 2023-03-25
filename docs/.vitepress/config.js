@@ -24,6 +24,7 @@ export default ({
       { text: 'Skip', 
         items: [
           { text: 'Skráningar', link: '/skraning/skraning' },
+          { text: 'Skírteini', link: '/skirteini' },
           { text: 'Skoðanir', link: '/skodanir' },
           { text: 'Fjarskiptaskoðun', link: '/skodanir/fjarskipta' }
         ] 
@@ -47,9 +48,9 @@ export default ({
         items: [
           { text: 'Innskráning', link: '/almennt/almennt'},
           { text: 'Forsíða', link: '' },
-          { text: 'Leit að skipi', link: '' },
-          { text: 'Leit og síur', link: '' },
-          { text: 'Skýrslur', link: '' }
+          { text: 'Leit að skipi', link: '/almennt/leit' },
+          { text: 'Leit og síur', link: '/almennt/leit-siur' },
+          { text: 'Tímavélin', link: '/almennt/timavel' }
         ]
       },
       {
@@ -68,7 +69,8 @@ export default ({
         collapsed: false,
         items: [
           { text: 'Regluvörðurinn', link: '/skirteini/regluvordur'},
-          { text: 'Útgáfa skírteina', link: '/skirteini/utgafa' },
+          { text: 'Útgáfa skírteina ', link: '/skirteini/utgafa' },
+          { text: 'Útgáfa og gildistími ', link: '/skirteini/utgafa-gildistimi' },
           { text: 'Yfirlit yfir útgefin skírteini', link: '/skirteini/yfirlit' },
           { text: 'Undanþágur', link: '/skirteini/undantagur' },
           { text: 'Farþegaleyfi', link: '/skirteini/fartegaleyfi' }
@@ -82,7 +84,7 @@ export default ({
           { text: 'Tækni- og aukaskoðun', link: '/skodanir/taekniskodun' },
           { text: 'Heildarlisti skoðana', link: '/skodanir/heildarlisti' },
           { text: 'Skrá skoðun', link: '/skodanir/skra-skodun' },
-          { text: 'Eldri skoðanir', link: '/skodanir/eldri-skodanir' },
+          { text: 'Eldri skoðanir', link: '/skodanir/eldri' },
           { text: 'Frestir til lagfæringar', link: '/skodanir/frestir' }
         ]
       },

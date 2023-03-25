@@ -1,37 +1,13 @@
 ---
-layout: page
+lang: en-US
+title: Skoðanir skipa
+description: Skoðanir og skoðunarhringurinn
 ---
-<script setup>
-import {
-  VPTeamPage,
-  VPTeamPageTitle,
-  VPTeamMembers
-} from 'vitepress/theme'
 
-const members = [
-  {
-    avatar: 'https://www.github.com/yyx990803.png',
-    name: 'Evan You',
-    title: 'Creator',
-    links: [
-      { icon: 'github', link: 'https://github.com/yyx990803' }
-    ]
-  }
-]
-</script>
+<!-- <Badge text="Ytri skoðunaraðilar" style="background: #84EAC8 !important; color: black;"/> -->
 
-<VPTeamPage>
-  <VPTeamPageTitle>
-    <template #title>
-      Skoðanir skipa
-    </template>
-    <template #lead>
-      The development of VitePress is guided by an international
-      team, some of whom have chosen to be featured below.
-    </template>
-  </VPTeamPageTitle>
-  <VPTeamMembers
-    :members="members"
-  />
-</VPTeamPage>
+
+# SKOÐANIR SKIPA
+
+*Skoðunarhringur skipa. Nokkur dæmi um skráningu skoðanna af mismunandi gerðum og stærðum af bátum er einnig að finna hér.*
 

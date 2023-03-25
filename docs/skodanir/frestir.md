@@ -1,0 +1,3 @@
+# Frestir til lagfæringar
+
+Ef útgerð óskar eftir að fá frest til að framkvæma úrbætur vegna athugasemda í skoðun (dæming 2 eða 3), er í sumum tilvikum og að undangenginni athugun hægt að fallast á að veita slíkan frest.  Í slíkum tilvikum þarf að fara inn í viðkomandi skoðun, taka út dæminguna þar, en færa undir Tækniskoðun sem  “Frestur til úrbóta”.  Aðeins starfsmenn Samgöngustofu, geta fært atriði / athugasemdir í Tækniskoðun.

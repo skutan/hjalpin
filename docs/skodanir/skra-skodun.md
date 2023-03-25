@@ -7,9 +7,9 @@ Til að útskýra aðferðir og virkni Skútunnar notum við 3 dæmi:
 - farþegabát ﹤15m
 - fiskiskip ≥ 24m.
 
-Mikilvægt er að muna, að skoðun tengist alltaf tilteknu skips skírteini.
+Mikilvægt er að muna, **að skoðun tengist alltaf tilteknu skips skírteini.**
 
-Í Skútunni fá öll farþegaskip óháð stærð útgefið öryggisskírteini farþegaskips.  Þegar skírteinið er gefið út, er það staðfesting á að skipið hafi staðist skoðun.  Skoðanir farþegaskipa tengjast því öryggisskírteini farþegaskips.
+Í Skútunni fá öll **farþegaskip** óháð stærð útgefið **öryggisskírteini farþegaskips.**  Þegar skírteinið er gefið út, er það staðfesting á að skipið hafi staðist skoðun.  Skoðanir farþegaskipa tengjast því öryggisskírteini farþegaskips.
 
 Öll skip sem eru 15 m og lengri að mestu lengd, fyrir utan skemmtibátar, fá einnig útgefið öryggisskírteini.  Skoðanir þessara skipa tengjast öryggisskírteini skipsins.
 
@@ -17,8 +17,10 @@ Mikilvægt er að muna, að skoðun tengist alltaf tilteknu skips skírteini.
 
 Eins og áður hefur verið vikið að, þá birtast skírteini skipsins í skjámyndinni Útgáfa skírteina.  Þetta þýðir, að ef það birtist öryggisskírteini í skjámyndinni þá tengjast skoðanir skipsins öryggisskírteininu.  Ef ekkert öryggisskírteini birtist í skoðuninni þá tengjast skoðanir skipsins haffærisskírteininu.
 
-Bendum á að það eru tvær meginleiðir fyrir skoðunaraðila til skráningar á skoðunum sem skal framkvæma:
+Bendum á að það eru **tvær meginleiðir** fyrir skoðunaraðila til skráningar á skoðunum sem 
+skal framkvæma:
 
-**Leið 1** þar sem reglubundnar skoðanir eru tengdar skírteinunum og skoðunarhringurinn birtist myndrænt.
+<span class="badge green">Leið 1</span>
+þar sem skoðanir eru tengdar skírteinunum og skoðunarhringurinn fyrir skírteinið birtist myndrænt. Skoðun sem á að færa, er valin úr skoðunarhringnum, sem birtist myndrænt.
 
-**Leið 2** þar sem skoðun er valin úr fellivalmynd (ýmist reglubundin skoðun eða aukaskoðun)
+<span class="badge green">Leið 2</span> þar sem skoðun er valin úr fellivalmynd (ýmist reglubundin skoðun eða aukaskoðun)

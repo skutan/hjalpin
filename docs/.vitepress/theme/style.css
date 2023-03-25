@@ -188,9 +188,9 @@ figcaption {
 .custom-block.details summary {
   color: var(--sam-blue) !important;
   margin: 0 0 8px;
-  font-weight: 700;
+  font-weight: 500;
   cursor: pointer;
-
+  font-size: 1.1111rem;
   }
 
 .custom-block.info {

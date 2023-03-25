@@ -6,16 +6,16 @@ hero:
   name: "Skútan"
   text: "Leiðbeiningar"
   tagline: 
-  image:
-    src: https://www.samgongustofa.is/skin/basic10k/i/sitelogo.svg
-    alt: Skútan
+  # image:
+  #   src: https://www.samgongustofa.is/skin/basic10k/i/sitelogo.svg
+  #   alt: Skútan
   actions:
     - theme: alt
       text: Skírteini skipa
       link: /skirteini
     - theme: alt
       text: Skoðanir skipa
-      link: /skodanir/heildarlisti
+      link: /skodanir
     - theme: alt
       text: Lögskráningar
       link: /logskraning

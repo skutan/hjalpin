@@ -10,7 +10,7 @@ next:
 
 # Skírteini skipa
 ::: info Í þessum kafla
- verður fjallað um útgáfu skírteina skipa og hvernig regluvörðurinn ákvarðar hvaða skírteini og skoðanir skip þurfi að standast samkvæmt íslenskum og alþjóða skipalögum. 
+verður fjallað um útgáfu skírteina skipa og hvernig Regluvörðurinn virkar. 
 
 Fyrir atvinnuskírteini, sjá kaflann um [lögskráningar](logskraning.md#atvinnuskirteini-1).
 ::: 

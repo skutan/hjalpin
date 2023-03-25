@@ -20,3 +20,30 @@ Ytri notendur Skútunnar skrá sig inn með rafrænum auðkennum í gegnum `isla
 Ef ekki tekst að skrá sig inn í gegnum `island.is` sendið þá tölvupóst á [Skútan email](mailto:skutan@samgongustofa.is)
 
 
+
+
+# Skútan - lau 26.3.23
+
+## Lögskrániging
+
+> Helgi, Halldóra, Jón
+
+
+## Notendasögur
+
+- Mæla fjölda músasmella og tíma fyrir eftirfarandi notendasögu (e. use case) ----
+
+> Endurútgáfa á skírteini
+
+> Fyrirspurn: fj. siglingadaga á ---- farþegaskipi
+
+## Halldóra
+ 
+- 
+- 
+- 
+
+## Helgi
+
+- 
+- 

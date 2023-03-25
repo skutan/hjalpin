@@ -3,9 +3,7 @@ aside: true
 prev:
   text: 'Tilbaka'
   link: '/skirteini.md'
-next:
-  text: 'Regluvörðurinn'
-  link: '/skirteini/regluvordur.md'
+
 ---
 
 # Regluvörðurinn
@@ -66,9 +64,20 @@ Haffærisskírteini
 Íslenskt mælibréf
 ```
 
-```txt [Fiskiskip]
+```txt [Fiskiskip undir 15 m]
 Haffærisskírteini   
 Íslenskt mælibréf
 Þjóðernisskírteini
 ```
+
+```txt [Fiskiskip yfir 24 m, 400BRT]
+Haffærisskírteini   
+Öryggisskírteini fyrir fiskiskip
+Öryggisskírteini fyrir fiskiskip - Skrá yfir búnað
+AFS - Yfirlýsing eiganda
+Alþjóða mælibréf
+Íslenskt þjóðernis- og skrásetningarskírteini
+```
 :::
+
+<code v-pre></code>

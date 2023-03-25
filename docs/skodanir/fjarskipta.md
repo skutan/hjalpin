@@ -11,8 +11,7 @@ er fjallað um fjarskiptaskoðun skipa með áherslu á starfsmenn Fjarskiptasto
 
 [Skrá fjarskiptaskoðun](/skirteini/regluvordur)
 
-
-## Innskráning
+::: details Innskráning
 
 Skoðunaraðili Fjarskiptastofu skráir sig inn með með því að slá inn notendanafn og lykilorð sem þeim hefur verið úthlutað.
 
@@ -22,19 +21,20 @@ Skoðunaraðili Fjarskiptastofu skráir sig inn með með því að slá inn not
 </figure> 
 
 Ef ekki tekst að skrá sig inn sendið þá tölvupóst á [Skútan email](mailto:skutan@samgongustofa.is).
+:::
 
-
-
-## Forsíða Skútunnar
+::: details Forsíða Skútunnar
 
 ::: info Persónuverndarskilmálar
 Við fyrstu innskráningu þarf að samþykkja persónuverndaskilmálana.
-:::
 
 <figure>
   <img src='/skirteini/images/rulefinder.svg'>
   <figcaption>Forsíða Skútunnar</figcaption>
 </figure>
+:::
+
+
 
 
 ## Val á skipi
