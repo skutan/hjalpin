@@ -21,7 +21,7 @@ Ef ekki tekst að skrá sig inn í gegnum `island.is` sendið þá tölvupóst �
 
 
 
-
+<!-- 
 # Skútan - lau 26.3.23
 
 ## Lögskrániging
@@ -46,4 +46,4 @@ Ef ekki tekst að skrá sig inn í gegnum `island.is` sendið þá tölvupóst �
 ## Helgi
 
 - 
-- 
+-  -->
