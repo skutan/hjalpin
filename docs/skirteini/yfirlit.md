@@ -10,9 +10,10 @@ Hægt er að sjá yfirlit yfir öll skírteini sem gefin hafa verið út fyrir v
 |<span class="badge red">17.10.2022</span>| **ÓGILT eða ÚTRUNNIÐ** |
 
 
+
 ## Útprentun skírteina
 
-Ef prenta þarf skírteini er smellt á táknið og birtist þá listi af sniðmáti skírteinis sem hlaðið er niður og prentað fyrir hefðbundna útgáfu skírteina. Sjá nánar -  3.6 rafræn útgáfa skírteinis.  **Aðeins starfsmenn Samgöngustofu geta framkvæmt þessa aðgerð.**
+Ef prenta þarf skírteini er smellt á táknið fyrir prentara og birtist þá listi af sniðmáti skírteinis sem hlaðið er niður til nánari útfyllingar (ef þarf) og prentunar.  **Aðeins starfsmenn Samgöngustofu geta framkvæmt þessa aðgerð.**
 
 Í sumum tilvikum eru til fleiri en ein útgáfa (sniðmát) af umræddu skírteini (t.d. farþegaleyfi) og er þá hægt að velja útgáfuna sem prenta á úr valmyndinni. 
 
@@ -26,7 +27,7 @@ Til að nálgast upplýsingar um eldri útgáfur skírteinis er smellt á söguh
 
 `SKÍRTEINI OG LEYFI` &rarr; `YFIRLIT YFIR ÚTGEFIN SKÍRTEINI`  &rarr; `BREYTA HNAPPUR`
 
-Í sumum tilvikum er hægt að framlengja skírteini skips. Líkt og með útgáfu skips skírteina þá getur **aðeins Samgöngustofa framlengt skírteini**.
+Í sumum tilvikum er hægt að framlengja skírteini skips. Eins og með útgáfu skipsskírteina getur **aðeins Samgöngustofa framlengt gildistíma skírteini**.
 
 <figure>
   <img src='/skirteini/images/framlenging.png'>
@@ -36,7 +37,7 @@ Til að nálgast upplýsingar um eldri útgáfur skírteinis er smellt á söguh
 
 
 **Haffærisskírteini:**
-Samgöngustofa notast við sömu vinnureglur við framlengingu haffærisskírteinis og áður, en hafa þarf í huga að meðan verið er að ná öllum skoðunum skipa inn í skoðunarhring mun þurfa í einhverjum tilvikum að framlengja haffærisskírteini.  Þetta á t.d. við, ef haffærisskírteinið er með gildistíma sem lendir á milli tveggja skoðunar glugga.  Frá lokum síðasta skoðunar glugga til opnunar þess næsta geta verið allt að því 6 mánuðir.
+Samgöngustofa notar í meginatriðum sömu vinnureglur við framlengingu haffærisskírteinis og áður en hafa þarf í huga að meðan verið er að ná öllum skoðunum skipa inn í skoðunarhring mun þurfa í einhverjum tilvikum að framlengja haffærisskírteini. Þetta á t.d. við ef haffærisskírteinið er með gildistíma sem lendir á milli tveggja skoðunar glugga. Frá lokum síðasta skoðunar glugga til opnunar þess næsta geta verið allt að því 6 mánuðir.
 
 <figure>
   <img src='/skirteini/images/skodunargluggi.png'>

@@ -16,12 +16,12 @@ next:
 
 # SKOÐANIR SKIPA
 
-*Skoðanir skip, skoðunarhringur, dæmi um innfærslu og fleira er að finna hér.*
+*Skoðanir skipa, 5 ára skoðunarfyrirkomulag, dæmi um innfærslu og fleira er að finna hér.*
 
 
 [Skrá skoðun](skodanir/skra-skodun.md)
 
-[Skoðunarhringur á skipum](skodanir/skodunarhringur.md)
+[5 ára skoðunarfyrirkomulag](skodanir/skodunarhringur.md)
 
 [Fjarskiptaskoðun](skodanir/fjarskipta.md)
 

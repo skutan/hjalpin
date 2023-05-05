@@ -68,7 +68,7 @@ Ef ein af eftirfarandi ábendingum birtast er **EKKI** hægt að lögskrá á sk
 **Hafa verður samband við tryggingafélag skips**
 
 <br/>
-<Badge text="Farþegaleyfi ógilt" style="background: #ffc107 !important; color: black;"/>
+<span  style="background: #ffc107 !important; color: black;">Farþegaleyfi ógilt</span>
 
 **Hafa verður samband við skírteinadeild Samgöngustofu á Ísafirði**
 

@@ -17,8 +17,8 @@ hero:
       text: Skoðanir skipa
       link: /skodanir
     - theme: alt
-      text: Lögskráningar
-      link: /logskraning
+      text: 5 ára skoðunarfyrirkomulag
+      link: /fyrirkomulag
     - theme: alt
       text: Spurt og svarað
       link: /faq

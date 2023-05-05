@@ -15,6 +15,9 @@ export default ({
   title: 'Hjálpin',
   description: "Skútan - hjálpin",
   themeConfig: {
+    search: {
+      provider: 'local'
+    },
     outlineTitle: 'Í þessum kafla',
     logo: 'https://images.ctfassets.net/8k0h54kbe6bj/3EumKpWqbPFygVWxWteoW/2961b0d9c162e8528e5771ab1707a368/Samgongustofa-stakt-400-400.png',
     // https://vitepress.dev/reference/default-theme-config
@@ -32,6 +35,7 @@ export default ({
       { text: 'Lögskráningar', 
         items: [
           { text: 'Almennt', link: '/logskraning' },
+          { text: 'Fiskiskip og önnur skip <12m', link: '/logskraning/fiski-undir12.md' },
           { text: 'Mönnunarreglur', link: '/logskraning/log-ytri' },
           { text: 'Farþegaskip', link: '/logskraning' }
         ]
@@ -80,10 +84,10 @@ export default ({
         text: 'Skoðanir skipa',
         collapsed: false,
         items: [
-          { text: 'Skoðunarhringur á skipum', link: '/skodanir/skodunarhringur' },
+          { text: '5 ára skoðunarfyrirkomulag', link: '/skodanir/skodunarhringur' },
+          { text: 'Skrá skoðun', link: '/skodanir/skra-skodun' },
           { text: 'Tækni- og aukaskoðun', link: '/skodanir/taekniskodun' },
           { text: 'Heildarlisti skoðana', link: '/skodanir/heildarlisti' },
-          { text: 'Skrá skoðun', link: '/skodanir/skra-skodun' },
           { text: 'Eldri skoðanir', link: '/skodanir/eldri' },
           { text: 'Frestir til lagfæringar', link: '/skodanir/frestir' }
         ]

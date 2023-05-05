@@ -1,4 +1,5 @@
-# Skoðunarhringur á skipum
+# 5 ára skoðunarfyrirkomulag skipa
+
 
 ::: info Í þessum kafla
  verður fjallað um breytingu í utanumhaldi á skoðunum skipa með tilkomu nýju skipaskrárinnar. Hin raunverulega breyting felst í því, að ekki verður hægt lengur að hliðra skoðunum til í gegnum framlengingar eða endurskoðanir. Þannig skulu þá fara fram tiltekinn fjöldi skoðana yfir 5 ára tímabil.  Skoðanirnar verða mis yfirgripsmiklar eftir því hvar skipið er statt í skoðunarhringnum.  Stærsta skoðunin er í upphafi skoðunarhrings og er þá talað um **endurnýjunarskoðun (R)**.  Næst stærst er **milliskoðunin (I)** en hún fer fram á ári 2 eða 3. **Árlega skoðunin (A)** fer fram á ári 2 og 4.  Þetta er í samræmi við reglugerð nr.
@@ -6,7 +7,36 @@
 :::
 
 
+
+<figure>
+  <img src='/skodanir/images/gluggi-simple.png'>
+  <figcaption>Innskráning</figcaption>
+</figure> 
+<!-- <figure>
+  <img src='/skodanir/images/fyrirkomulag-w.png'>
+  <figcaption>Innskráning</figcaption>
+</figure>  -->
+
+
+<figure>
+  <img src='/skodanir/images/gluggi-dark.png'>
+  <figcaption>Afmælisdagsetning er almennt ákvörðuð sem dagsetning síðustu öxulskoðunar</figcaption>
+</figure> 
+
+
+<br/><br/><br/>
 Nokkrar breytingar sem verða á skoðunum þegar nýtt tölvukerfi er tekið í notkun:
+
+
+<figure>
+  <img src='/skodanir/images/velraf.png'>
+  <figcaption>Innskráning</figcaption>
+</figure> 
+
+<figure>
+  <img src='/skodanir/images/bolur2.png'>
+  <figcaption>Innskráning</figcaption>
+</figure> 
 
 a. Bolskoðun, eins og við þekkjum hana í dag verður að tveimur skoðunum
 > - Bolskoðun, ofan sjólínu, sem verður árleg skoðun
@@ -24,6 +54,14 @@ c. Vélskoðun og rafmagnsskoðun sameinast í eina skoðun, sem heitir Vél- og
 **Upphaf skoðunarhrings**, er þegar skoðunarhringur byrjar og allar skoðanir eru framkvæmdar.  Ef skip fær útgefið öryggisskírteini (skip yfir 15 m), þá skal öryggisskírteinið útgefið þegar skoðunum er lokið í upphafi skoðunarhings.  Gildistími öryggisskírteinis kallast afmælis dagsetning.
 
 **Lok skoðunarhrings**, er þegar núverandi skoðunarhring lýkur og nýr skoðunarhringur byrjar.  Öryggisskírteinið rennur þá út og því þarf að framkvæma allar skoðanir. 
+
+
+<figure>
+  <img src='/skodanir/images/gluggi2.png'>
+  <figcaption>Innskráning</figcaption>
+</figure> 
+
+
 
 **Afmælisdagsetning**, er dagsetningin þegar skoðunarhring lýkur og er gildisdagsetningin á öryggisskírteininu.
 
